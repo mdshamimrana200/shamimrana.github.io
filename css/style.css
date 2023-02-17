@@ -1,0 +1,49 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+.container{
+    margin: 40px 15%;
+
+}
+.topbarr{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+}
+.logo{
+    text-transform: uppercase;
+    font-family: Arial, Helvetica, sans-serif;
+}
+.allist{
+    list-style: none;
+}
+.servise{
+    margin-right: 15px;
+    float: left;
+}
+.sub-container{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+}
+.detailss{
+    width: 50%;
+    margin-left: 15px;
+}
+.photo{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+    color: red;
+    width: 50%;
+    background-color: black;
+    margin-right: 15px;
+}
+.photos{
+
+    text-align: center;
+
+}
